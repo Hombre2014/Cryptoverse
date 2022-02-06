@@ -33,7 +33,7 @@ const LineChart = ({ coinHistory, currentPrice, coinName }) => {
 
   // const options = {
   //   scales: {
-  //     yAxes: [
+  //     yAxis: [
   //       {
   //         ticks: {
   //           beginAtZero: true,
