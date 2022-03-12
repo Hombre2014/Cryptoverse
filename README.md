@@ -1,12 +1,12 @@
 # Showing stats and news about crypto currencies
 
-> React app
+> Cryptoverse
 
 ![screenshot](./src/images/Cryptoverse.png)
 
 ## Description
 
-In this task, you will be working with the real live data from the SpaceX API. Your task is to build a web application for a company that provides commercial and scientific space travel services. The application will allow users to book rockets and join selected space missions.
+You can track all the major crypto currencies, read the latest news about them and get detailed information for each.
 
 ## Built With
 
