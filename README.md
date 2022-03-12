@@ -2,7 +2,7 @@
 
 > React app
 
-![screenshot](./src/space-travelers.png)
+![screenshot](./src/images/Cryptoverse.png)
 
 ## Description
 
@@ -17,21 +17,7 @@ In this task, you will be working with the real live data from the SpaceX API. Y
 
 ## Live Demo
 
-[Live demo](https://startreck.netlify.app/)
-
-### Prerequisites
-
-- Internet connection and browser
-- A text editor(preferably Visual Studio Code)
-- Browser
-
-### Usage
-
-- Clone the repository using `git clone https://github.com/Hombre2014/space-travelers`
-- Change directory into the project folder: `cd space-travelers`
-- Run `npm install`
-- Run `npm start`
-- A new browser will open automatically with application loaded
+[Live demo](https://yuriy-cryptoverse.netlify.app/)
 
 ### Deployment
 
@@ -49,7 +35,7 @@ With [Netlify](https://www.netlify.com/)
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Hombre2014/space-travelers/issues).
+Feel free to check the [issues page](https://github.com/Hombre2014/Cryptoverse/issues).
 
 ## Show your support
 
